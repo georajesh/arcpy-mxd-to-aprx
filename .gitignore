@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ArcGIS outputs / local data (don't commit converted projects or data)
+*.aprx
+*.mxd
+*.atbx
+*.lock
+*.gdb/
+ConvertedFiles/
+backups/
+.backups/
