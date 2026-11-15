@@ -94,4 +94,4 @@ Issues and pull requests are welcome, especially new repair strategies (e.g. geo
 
 ## License
 
-[MIT](LICENSE) © 2025 Rajesh Dulal
+[MIT](LICENSE) © 2025 GeoRajesh
